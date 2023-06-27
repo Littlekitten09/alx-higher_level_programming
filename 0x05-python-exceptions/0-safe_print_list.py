@@ -1,7 +1,7 @@
-
 #!/usr/bin/python3
 def safe_print_list(my_list=[], x=0):
     """print x elements of a list.
+
     Args:
         my_list (list): list of all elements.
         x (int):  number of time you need to go over the list
